@@ -30,10 +30,11 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #define AUTOTIMER_H_
 
 #include <map>
+#include <cstdint>
+#include <iostream>
 #include <numeric>
 #include <string>
 #include <vector>
-#include <iostream>
 namespace hesai
 {
 namespace lidar
